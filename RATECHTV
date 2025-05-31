@@ -246,7 +246,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/PemersatuBangsa/sa_dash_vmx/Pemer
 https://dsgtq5sngxkde.cloudfront.net/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
 
-EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="Trans7" tvg-logo="https://i.ibb.co/V37y7jf/trans7.png" group-title="Indonesia Channels", TRANS 7🇮🇩
+#EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="Trans7" tvg-logo="https://i.ibb.co/V37y7jf/trans7.png" group-title="Indonesia Channels",TRANS 7🇮🇩
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 
