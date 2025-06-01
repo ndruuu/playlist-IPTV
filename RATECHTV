@@ -3600,32 +3600,6 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
 
-
-#EXTINF:-1 group-title="Singapore" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-id="" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%275714418%27&EntityType=%27Item%27&EntityId=%2797073%27&Width=300&Height=78&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",meWATCH LIVE 1
-https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="myteve",ID~Football•🇲🇨	
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="myteve",ID~Sport~1•🇲🇨	
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="myteve",ID~Sport~2•🇲🇨	
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
-
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-#EXTINF:-1 group-title="myteve" tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg", INDOSIAR_mpd(0tt/tivimate)
-https://proji.glitch.me/https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-
-
-
-
-
-
-
-
 <==================================== TVRI GRoup =========================================>
 
 #EXTINF:-1  tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="TVRI Group",TVRI Nasional
