@@ -335,7 +335,7 @@ https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="Indonesia Channels" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3_rHeuAvR43iBcRz7pyW2Pbz4827McPJ6EnvKfzsu5VFLmyY2W82DZ4Se7HfNrZIv-DnFWxDMD-TQwDwFUsXM_KWq9dR792DD2B9nB8HY4t8DKCVLBek8IstRTvaxG-BiO2JpkjcvM_aXGD3ASodX6EM8feWyOpiWKyrAyym0NHhAEmkT2ZwyOeC70Snl/s1563/17.png",TVOne (INDIHOME)
 #EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.1.4 ExoPlayerLib/2.19.1 (Linux;Android 15.0.0;)
-https://cdn09jtedge.indihometv.com/atm/hlsv3/tvone/tvone-avc1_1500000=6-mp4a_96000=5.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8 
 
  
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHYQJ8KQhQ6KGkwynD0cGO8nuRTciUw6V24l4AqXMpYIEPdp0laYrT5TFHnFT7_3_WDJ69htsnId6lFPgyqocNFpTZIMP6yYVRIcraJ5azI8HGoTixVHm1SUSvX_JAApTILl8JXiOU9dKw8h5sWgK0LTeXM_6bUkNzJq_wYBRCFVDRDL3QF0J0APkmN-Ln/s1563/13.png", MD TV
@@ -346,7 +346,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
 #EXTINF:-1 tvg-id="MDTV.id" group-title="Indonesia Channels" tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHYQJ8KQhQ6KGkwynD0cGO8nuRTciUw6V24l4AqXMpYIEPdp0laYrT5TFHnFT7_3_WDJ69htsnId6lFPgyqocNFpTZIMP6yYVRIcraJ5azI8HGoTixVHm1SUSvX_JAApTILl8JXiOU9dKw8h5sWgK0LTeXM_6bUkNzJq_wYBRCFVDRDL3QF0J0APkmN-Ln/s1563/13.png",MD TV
 http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
  
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="Indonesia Channels", Magna Channel
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf3Bj-QsptrcJqPA_yDpye-A5jAfA07TCNY57fMNoo3uRcL-8-tt3WcItpBhyphenhyphenX96oEGpUUzRBvSUwfsgxOHjRpQ-rlX_CUBx3VKu3Nu0Z7yQf3YZvyDgYUYALNtqphLB08tu6t9b99Edw3dAYbJUKr7TBJPtJTxFk9w4h8XbWVgQyCrkQbXoQEBLruje9P/s500/Untitled%20design.png" group-title="Indonesia Channels", Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
  
 #EXTINF:-1 tvg-id="NusantaraTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNhXAFsxDegj8eyBoiOm_-we2rdSh8IVTnniLNX7r_Ndj5LECc4XyZsvYhJuXfWr3dO2SuRCKjhU_VoV1lxyVdcr63ttuUjkp-mNZe59f5_knKmkkEamm0VF7-vitVr-fjP4EMN0uBIgnT5i5oTN1gr4pfclmHY1IZDie3uHmijx3oGA2EU6Ti6zPvZgUv/s1563/9.png" group-title="Indonesia Channels", Nusantara TV
