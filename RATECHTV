@@ -199,7 +199,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://cdn.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
 
-#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels" ,SCTV 
+#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5Do4UuOhWPwLW7Jf52DjFCFw3pj6AIS_AenJLfTY3NwY6fC6w_9SGsKvmARrDy5Btrr7kysm3NVmNbvAy2RB38nXotRIRGwXCg_XtLnwCHcqaloJ063ust-h3SlcjCikuQvNMDS1bPvRoCh8IqjKKgCmwoP5q8EY-8jVUA5RGNk6f-GTg3VthgCThhG7a/s1563/2.png" group-title="Indonesia Channels" ,SCTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
@@ -212,20 +212,20 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/967/49967-SNAPSHOT-l.png" group-title="Indonesia Channels",Kompas TV HD
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9a_I_uyJN92CkCstOlKEHHKI8oIBamwKui-vCMpMy5Wz_xr5sgP3hKqVhkIpubp2cKa8McsMsnUV7Nijd8-tJaU68JIHmFHCwkmdyoEpivES1HAQ6Bmf6GHAz2AMuyWrGmZo_z0NX1l-Z3vThF7PQcLT0szS_ueZD1pIlLKM4kouYbOBEVuzP_Ak0GAM2/s1563/11.png",Kompas TV HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
 https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
 
-#EXTINF:-1 tvg-id="MetroTV.id" group-title="Indonesia Channels" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/970/49970-SNAPSHOT-l.png",Metro TV
+#EXTINF:-1 tvg-id="MetroTV.id" group-title="Indonesia Channels" tvg-url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJLRfWUMrRpDO04WkaKGD-SeviJx7ONbzyI5MhlzrXqJxFfYfmRwFT8FjgR3Xopwp0oR0jO8eCtvoIcLL3xFH-4RX1Bs0oOmUQhM9cF7TTrNjJOi9CMzutFa41pRJWUQh55hitQAU-QLZVPb31xXB3tPu7VaAh9PuXfyEgePMcR0gKC0M3YQzMKxmVeEls/s1563/10.png",Metro TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
 https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
 
 
-#EXTINF:-1 group-title="Indonesia Channels" tvg-id="IDX.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/iBcm_IDX.jpg",IDX
+#EXTINF:-1 group-title="Indonesia Channels" tvg-id="IDX.id" tvg-url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQNejdXnQb4gD8oIzc2oi2pFYpj_UjDIWWWOciyuVMJ2tG7yKw0pLLjWfWDoXLcRrg6oHXycsheIHAbez63U6WpkiWWiijmRU4bQbhh1qnHAaJ4wRPrFFfx3Ro8iNDbfffytTGrN6P5b9VgCyQNCqrF5j07d1EakPSIgkL6opzR3-lKJikmEXsin5MzPto/s1563/12.png",IDX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f12a0fe110248a6811faf8a0ddf19c6:af565f760064594c755515cb6b4b6f1a
