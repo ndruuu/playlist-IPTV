@@ -20,12 +20,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/TAjYixM.png?v=1.0.0.1" group-title="Movies" tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia", Bioskop Indonesia (INDI)
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnYwNCc0s9FvAt-67FoQO2yyJprN_1ygxgypctq_vInV7SDwmKIwS1L3DE_tiVG71t7oQyPa1oyY2KLd2-72seqJDFtttbecd577hYRAeY251sQAduV9zaii_sz7dVedpTYk4nXIo_TJgHjgCM-NlYf7vVaftgvZ4_h7kOK4dand1yVa_wMsiG-hIXPLuz/s2953/RATECH%20PROJECT%20(945%20x%20600%20px).png" group-title="Movies",Cinemaworld (INDI)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-VY0PtpamuYt2xKougDgDsgzhgcz-WSSUmkAGztm8SX5TR2DuYkyQ1U_s_he0MMRbHs9bC2m_LIRdCWYX79Rt7aK1L2sE4vbP5_HaYmjoNl7fOCpnMkiIr8K0dD6jziSjkyZSdWw_NUMM4Od4idZ3Ifk-t5axWCwHiYINUMMhOLZQQsxWd3qCvfEYw0zs/s1563/1.png" group-title="Movies",Cinemaworld (INDI)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnYwNCc0s9FvAt-67FoQO2yyJprN_1ygxgypctq_vInV7SDwmKIwS1L3DE_tiVG71t7oQyPa1oyY2KLd2-72seqJDFtttbecd577hYRAeY251sQAduV9zaii_sz7dVedpTYk4nXIo_TJgHjgCM-NlYf7vVaftgvZ4_h7kOK4dand1yVa_wMsiG-hIXPLuz/s2953/RATECH%20PROJECT%20(945%20x%20600%20px).png" group-title="Movies",Cinemaworld (PH)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-VY0PtpamuYt2xKougDgDsgzhgcz-WSSUmkAGztm8SX5TR2DuYkyQ1U_s_he0MMRbHs9bC2m_LIRdCWYX79Rt7aK1L2sE4vbP5_HaYmjoNl7fOCpnMkiIr8K0dD6jziSjkyZSdWw_NUMM4Od4idZ3Ifk-t5axWCwHiYINUMMhOLZQQsxWd3qCvfEYw0zs/s1563/1.png" group-title="Movies",Cinemaworld (PH)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.113:6910/001/2/ch00000090990000001158/manifest.mpd?virtualDomain=001.live_hls.zte.com
@@ -161,41 +161,41 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 <====================== Indonesia Channel ======================>
 
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Indonesia Channels",Indosiar 1  
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha0UkJeyUHqJi1-Xx2O30RDHB_Qg2_O6c_0qgh7DtBPxcdg77EMc8T6lPsrCsWIwI-XCQGdbZ3V2Oy_AN5s-bvyxJVzIWmMw_i6m4k-A90OOUce0oWnVJhQv7GA13w6N22dyXNicHsYR9z-z0WDvqX3brWT49dy6K_HsMa2KO82E5tHf8Gsa530tHEwCuu/s1563/3.png" group-title="Indonesia Channels",Indosiar 1  
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 #https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Indonesia Channels",Indosiar 2  
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha0UkJeyUHqJi1-Xx2O30RDHB_Qg2_O6c_0qgh7DtBPxcdg77EMc8T6lPsrCsWIwI-XCQGdbZ3V2Oy_AN5s-bvyxJVzIWmMw_i6m4k-A90OOUce0oWnVJhQv7GA13w6N22dyXNicHsYR9z-z0WDvqX3brWT49dy6K_HsMa2KO82E5tHf8Gsa530tHEwCuu/s1563/3.png" group-title="Indonesia Channels",Indosiar 2  
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://aflaxtv.xyz:8080/live/test_acct/ohbo1veifa4AhD/162138.ts
 http://cdn.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 
-#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Indonesia Channels",Indosiar 3 
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha0UkJeyUHqJi1-Xx2O30RDHB_Qg2_O6c_0qgh7DtBPxcdg77EMc8T6lPsrCsWIwI-XCQGdbZ3V2Oy_AN5s-bvyxJVzIWmMw_i6m4k-A90OOUce0oWnVJhQv7GA13w6N22dyXNicHsYR9z-z0WDvqX3brWT49dy6K_HsMa2KO82E5tHf8Gsa530tHEwCuu/s1563/3.png" group-title="Indonesia Channels",Indosiar 3 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Indonesia Channels",Indosiar 4
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha0UkJeyUHqJi1-Xx2O30RDHB_Qg2_O6c_0qgh7DtBPxcdg77EMc8T6lPsrCsWIwI-XCQGdbZ3V2Oy_AN5s-bvyxJVzIWmMw_i6m4k-A90OOUce0oWnVJhQv7GA13w6N22dyXNicHsYR9z-z0WDvqX3brWT49dy6K_HsMa2KO82E5tHf8Gsa530tHEwCuu/s1563/3.png" group-title="Indonesia Channels",Indosiar 4
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels",SCTV
+#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5Do4UuOhWPwLW7Jf52DjFCFw3pj6AIS_AenJLfTY3NwY6fC6w_9SGsKvmARrDy5Btrr7kysm3NVmNbvAy2RB38nXotRIRGwXCg_XtLnwCHcqaloJ063ust-h3SlcjCikuQvNMDS1bPvRoCh8IqjKKgCmwoP5q8EY-8jVUA5RGNk6f-GTg3VthgCThhG7a/s1563/2.png",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels",SCTV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5Do4UuOhWPwLW7Jf52DjFCFw3pj6AIS_AenJLfTY3NwY6fC6w_9SGsKvmARrDy5Btrr7kysm3NVmNbvAy2RB38nXotRIRGwXCg_XtLnwCHcqaloJ063ust-h3SlcjCikuQvNMDS1bPvRoCh8IqjKKgCmwoP5q8EY-8jVUA5RGNk6f-GTg3VthgCThhG7a/s1563/2.png" group-title="Indonesia Channels",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels",SCTV
+#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5Do4UuOhWPwLW7Jf52DjFCFw3pj6AIS_AenJLfTY3NwY6fC6w_9SGsKvmARrDy5Btrr7kysm3NVmNbvAy2RB38nXotRIRGwXCg_XtLnwCHcqaloJ063ust-h3SlcjCikuQvNMDS1bPvRoCh8IqjKKgCmwoP5q8EY-8jVUA5RGNk6f-GTg3VthgCThhG7a/s1563/2.png" group-title="Indonesia Channels",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://cdn.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
 
@@ -203,11 +203,11 @@ http://cdn.nng.cloudns.us/live/m3u8/id/2b8fc230e8f847a.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels",SCTV alt
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5Do4UuOhWPwLW7Jf52DjFCFw3pj6AIS_AenJLfTY3NwY6fC6w_9SGsKvmARrDy5Btrr7kysm3NVmNbvAy2RB38nXotRIRGwXCg_XtLnwCHcqaloJ063ust-h3SlcjCikuQvNMDS1bPvRoCh8IqjKKgCmwoP5q8EY-8jVUA5RGNk6f-GTg3VthgCThhG7a/s1563/2.png" group-title="Indonesia Channels",SCTV alt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
-#EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="Indonesia Channels",Nusantara TV
+#EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNhXAFsxDegj8eyBoiOm_-we2rdSh8IVTnniLNX7r_Ndj5LECc4XyZsvYhJuXfWr3dO2SuRCKjhU_VoV1lxyVdcr63ttuUjkp-mNZe59f5_knKmkkEamm0VF7-vitVr-fjP4EMN0uBIgnT5i5oTN1gr4pfclmHY1IZDie3uHmijx3oGA2EU6Ti6zPvZgUv/s1563/9.png" group-title="Indonesia Channels",Nusantara TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
