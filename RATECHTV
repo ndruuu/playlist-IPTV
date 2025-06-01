@@ -201,9 +201,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
-#EXTINF:-1 tvg-id="Nusantara TV.id" tvg-logo="https://iili.io/2W8UsX2.png" group-title="NASIONAL",Nusantara TV
+#EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNhXAFsxDegj8eyBoiOm_-we2rdSh8IVTnniLNX7r_Ndj5LECc4XyZsvYhJuXfWr3dO2SuRCKjhU_VoV1lxyVdcr63ttuUjkp-mNZe59f5_knKmkkEamm0VF7-vitVr-fjP4EMN0uBIgnT5i5oTN1gr4pfclmHY1IZDie3uHmijx3oGA2EU6Ti6zPvZgUv/s1563/9.png" group-title="Indonesia Channels",Nusantara TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9a_I_uyJN92CkCstOlKEHHKI8oIBamwKui-vCMpMy5Wz_xr5sgP3hKqVhkIpubp2cKa8McsMsnUV7Nijd8-tJaU68JIHmFHCwkmdyoEpivES1HAQ6Bmf6GHAz2AMuyWrGmZo_z0NX1l-Z3vThF7PQcLT0szS_ueZD1pIlLKM4kouYbOBEVuzP_Ak0GAM2/s1563/11.png" group-title="Indonesia Channels",Kompas TV HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -349,9 +349,6 @@ http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
  
 #EXTINF:-1 tvg-id="Magna TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf3Bj-QsptrcJqPA_yDpye-A5jAfA07TCNY57fMNoo3uRcL-8-tt3WcItpBhyphenhyphenX96oEGpUUzRBvSUwfsgxOHjRpQ-rlX_CUBx3VKu3Nu0Z7yQf3YZvyDgYUYALNtqphLB08tu6t9b99Edw3dAYbJUKr7TBJPtJTxFk9w4h8XbWVgQyCrkQbXoQEBLruje9P/s500/Untitled%20design.png" group-title="Indonesia Channels",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
- 
-#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNhXAFsxDegj8eyBoiOm_-we2rdSh8IVTnniLNX7r_Ndj5LECc4XyZsvYhJuXfWr3dO2SuRCKjhU_VoV1lxyVdcr63ttuUjkp-mNZe59f5_knKmkkEamm0VF7-vitVr-fjP4EMN0uBIgnT5i5oTN1gr4pfclmHY1IZDie3uHmijx3oGA2EU6Ti6zPvZgUv/s1563/9.png" group-title="Indonesia Channels", Nusantara TV
-https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
 
 #EXTINF: -1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhadL_rE4tuGXyLfr9ZEFlEhFX4yxSKSTYXHbCZgRPHYSOwWhllI8WQxbkpxYu_hlb9l-1GitEKqlY0mRoEDTMqYiNTxXUGLbcLFXuPi0F_ZvAchb-0hvPLmYhunlYHJq7jZ3SFeKwNKEpaLYW3fpZ08aC7B_gBrfeY4Sbm8Nh0BBGHJI7ZFBk1MO5F_ZIt/s1563/20.png" group-title="Indonesia Channels",CNN Indo
