@@ -251,10 +251,6 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1791373024_b744100_sl
 #EXTINF:-1 tvg-id="MDTV.id" group-title="Indonesia Channels" tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHYQJ8KQhQ6KGkwynD0cGO8nuRTciUw6V24l4AqXMpYIEPdp0laYrT5TFHnFT7_3_WDJ69htsnId6lFPgyqocNFpTZIMP6yYVRIcraJ5azI8HGoTixVHm1SUSvX_JAApTILl8JXiOU9dKw8h5sWgK0LTeXM_6bUkNzJq_wYBRCFVDRDL3QF0J0APkmN-Ln/s1563/13.png",NMDTV
 #https://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="MDTV.id" group-title="Indonesia Channels" tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/983/49983-SNAPSHOT-l.png",NET TV HD
-http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
-
 #EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVZdsytlqrtuGZ5nPgJ7RcaDUH0Y2c3HGogfFZX2BC20HA6Gdi9A9D3T7kJIN3ZyixXjGNezwP-OUmcrEMz0TvJZmz-030LkaieNNZjT3tght9-pZWKFH3PV9WF4r13fJYK7uRWYJzqKEDP9vB3RT5HECT1NjXTBa0vpyIfsrGZJp471YVevkakuDXAvpD/s1563/5.png" group-title="Indonesia Channels",ANTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -355,6 +351,10 @@ https://cdn09jtedge.indihometv.com/atm/hlsv3/tvone/tvone-avc1_1500000=6-mp4a_960
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHYQJ8KQhQ6KGkwynD0cGO8nuRTciUw6V24l4AqXMpYIEPdp0laYrT5TFHnFT7_3_WDJ69htsnId6lFPgyqocNFpTZIMP6yYVRIcraJ5azI8HGoTixVHm1SUSvX_JAApTILl8JXiOU9dKw8h5sWgK0LTeXM_6bUkNzJq_wYBRCFVDRDL3QF0J0APkmN-Ln/s1563/13.png", MD TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="MDTV.id" group-title="Indonesia Channels" tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHYQJ8KQhQ6KGkwynD0cGO8nuRTciUw6V24l4AqXMpYIEPdp0laYrT5TFHnFT7_3_WDJ69htsnId6lFPgyqocNFpTZIMP6yYVRIcraJ5azI8HGoTixVHm1SUSvX_JAApTILl8JXiOU9dKw8h5sWgK0LTeXM_6bUkNzJq_wYBRCFVDRDL3QF0J0APkmN-Ln/s1563/13.png",MD TV
+http://khano.nng.cloudns.us/live/m3u8/id/6cdb3402d11f58d.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="Indonesia Channels", Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
