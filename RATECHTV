@@ -274,14 +274,14 @@ https://atemeshield1-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 #EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVZdsytlqrtuGZ5nPgJ7RcaDUH0Y2c3HGogfFZX2BC20HA6Gdi9A9D3T7kJIN3ZyixXjGNezwP-OUmcrEMz0TvJZmz-030LkaieNNZjT3tght9-pZWKFH3PV9WF4r13fJYK7uRWYJzqKEDP9vB3RT5HECT1NjXTBa0vpyIfsrGZJp471YVevkakuDXAvpD/s1563/5.png",ANTV
 http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtOswYxSurFYD6yBWgqPA2FszUp8JYFH0VTxzEFzB4OF_mhSZgZpi6IpMZ_BsQvkrlWcVUskAyP-oMBdiqjFhmLnPVOrGfAb32-nwI0fmudX4Wnr3vgfpjtvif1OlJaSnLEvr_5E8F9nORtUPcn7L4tcnBuNQh6LxGxGbdRM-oyJL_K49UT7HLolzRAVC4/s700/RCTI.png" group-title="Indonesia Channels",RCTI +
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrhnoFxglh-FdRndyg4yPLzYjy9IRLX5UHAY4rRjUY79kr3FOEYsYiKOZJGzgUYoPZ3u8ZscSJRBpAlQ3qY5ivOZWsAr26m7HC00Rw1MGJWIa423ft5UQrpzHVCxSS-VdI_6fWMNPdTgDLF8t06qQHKRfUEorw1lCJlobhh6_KrSKwv5HrD9ZpLJLkChK4/s1563/7.png" group-title="Indonesia Channels",RCTI +
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=http://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=android-R+ 
 #EXTVLCOPT:http-referrer=http://www.rctiplus.com/ 
 http://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBCh67zEpVMHxLj6kU6QB_JiKfvomp28jV2Q&usqp=CAU" group-title="Indonesia Channels",BTV
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilXZ23xc5s8NQ4SQfdJVh3aDBbcS2BdbbhVVdchqEDJwE2OApDd7pht1wuoFJDK_G7_p0zlkKdnDXWST-HcAuP2Q6DEoLxkN0mfDFlfzfb4fwaAlIcREqQQXK64kP3XcRps9YurC_YFVDCOvXrAOsKbehlJt9sAlrsWusGIRZfslIRS8wd75Xe56SGfo2j/s1563/15.png" group-title="Indonesia Channels",BTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -304,7 +304,7 @@ https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigDG4Scc13R7M-FscFsDzxNqKkfnhJr4HOCA52uIkPWeIp98e8W9xW8JPVbPxrIz324rb6mK1sLeWIGunkBgC9UGcn2SeZUtfKjOgZUBJjBiLIzUtZvz72CLGNAkC67rBDa5jlKBR2j_BIWeTskKylfXbLTSUInHmnVz76Nmey9xwUq8zTjLWaJUPNav3j/s1563/8.png" group-title="Indonesia Channels",MOJI TV 3
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
-#EXTINF:-1 tvg-id="Daai TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/979/49979-SNAPSHOT-l.png" group-title="Indonesia Channels",DAAI TV
+#EXTINF:-1 tvg-id="Daai TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3iZprj8k9WI048t5ylpci3GaJ_MDqeJSMTT8G0tIjT9XyfhE8yX__vhGlAzp8fQDV807G0kmxV4C6hBSVrXDGbvDcJTl5hOVa2QUUCBJmQgUzXYQ8kXH4wFF5Yp4jvbRG2snKFu2NX6WPRvdSPTKgOCmA8aDCgy_xg29jm9KZHV-7mpW4e80g1Z5iCTnm/s1563/23.png" group-title="Indonesia Channels",DAAI TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=dfd7c4f6420843ab9ffb1b8fdda1073a:d99603a39c300373a2edaf4f048276be
@@ -312,7 +312,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/964/49964-SNAPSHOT-l.png" group-title="Indonesia Channels",RTV
+#EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdp0axXnPHxQkSReXe1_vrzp9BZgL9y3cTtcm0KnF2GEPFp-HNdEdRwljAl1k9aTXyk8Pj6WFn9gkcqv3JYsZzz488_lp14a69_60Am7GeDZyWTKdzWrkaSL_N_EVQw9jKAI5Lw-X6kBY4rPjSpSoKX6o0HlXzxX38QNbKx7u-7kf1icb6Hu0RD2kd4Hna/s1563/22.png" group-title="Indonesia Channels",RTV
 https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 
 
@@ -325,7 +325,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w139395680_b2692000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="Indonesia Channels",CNBC Indonesia
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0KekiIv-MXSayo0UerbK1NBvYzzqTlPzTXDl2nXChoR6_7ofUGnI88E3QCWuLdLRyavdb8NaznpZDrVLdcIcOc4-Ee15yRyORqp3lc-h0AwP3G1lDuQsKTusfRlQrJtZnZ91neSPj4somkWOfOh2A62PJrRmhEXHdXUtp797CJmpfmDMVQRD2eHnKIz52/s1563/21.png" tvg-url="https://bit.ly/JejeVisionEPG" group-title="Indonesia Channels",CNBC Indonesia
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
 
