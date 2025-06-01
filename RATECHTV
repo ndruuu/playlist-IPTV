@@ -177,7 +177,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
-#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5Do4UuOhWPwLW7Jf52DjFCFw3pj6AIS_AenJLfTY3NwY6fC6w_9SGsKvmARrDy5Btrr7kysm3NVmNbvAy2RB38nXotRIRGwXCg_XtLnwCHcqaloJ063ust-h3SlcjCikuQvNMDS1bPvRoCh8IqjKKgCmwoP5q8EY-8jVUA5RGNk6f-GTg3VthgCThhG7a/s1563/2.png",SCTV
+#EXTINF:-1 tvg-id="SCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5Do4UuOhWPwLW7Jf52DjFCFw3pj6AIS_AenJLfTY3NwY6fC6w_9SGsKvmARrDy5Btrr7kysm3NVmNbvAy2RB38nXotRIRGwXCg_XtLnwCHcqaloJ063ust-h3SlcjCikuQvNMDS1bPvRoCh8IqjKKgCmwoP5q8EY-8jVUA5RGNk6f-GTg3VthgCThhG7a/s1563/2.png" group-title="Indonesia Channels,SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
