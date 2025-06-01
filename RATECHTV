@@ -221,11 +221,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=1f12a0fe110248a6811faf8a0ddf19c6:af565f760064594c755515cb6b4b6f1a
 https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ca65af90adc5e3ddb180e16426bb67da:b6f87a3a128dbd75ead036f596edeae7
-#EXTINF:-1 tvg-id="TVRI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://static.mncnow.id/images/channel/c57573a6/f784_r32.jpg" group-title="Indonesia Channels",TVRI Nasional
-https://d1abp075u76pbq.cloudfront.net/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+#EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-name="TVRI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgn4lyRnwyEVG-l_ZuUPvkl1Mch-nqvR0InUM6KFVHhQNPPveOvtJKG05YT0oVxeVz7rYgzfYq_Mw3zgr5TCXK8VUhzp5iRdLMFelzaSw_cnX8IW5WxlqjlOtOTFs7bJCO2VhMoKGnsc5hYlqqPjxkPJl40LPbZZzH3VYwx0a3MV7UIuSHhQvR5WHejdzsp/s1563/Untitled%20design%20(1).png" group-title="Indonesia Channels", TVRI NASIONAL HD🇮🇩 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 #EXTINF: -1 tvg-name="TRANS TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPaHN4s15U2lwCXjsnKP6L0wTSVSFugDDmwompPH0l1ctZXuKW1jd7VHR777VFz-QbfWZqrsrIZilSzeZhFPn8085BnUC-WhgZ_KeFxziWR_SM6t3voV2e8MtAKA5vKdPq8Tsj6PwgnFXMCejuukHFCMDpjQMaQVr6UDEmcIccaJAoNGl_zQfsz4JZf5K1/s1563/6.png" group-title="Indonesia Channels", Trans TV SD🇮🇩 
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2108851844_b344100_sleng.m3u8
