@@ -212,13 +212,13 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9a_I_uyJN92CkCstOlKEHHKI8oIBamwKui-vCMpMy5Wz_xr5sgP3hKqVhkIpubp2cKa8McsMsnUV7Nijd8-tJaU68JIHmFHCwkmdyoEpivES1HAQ6Bmf6GHAz2AMuyWrGmZo_z0NX1l-Z3vThF7PQcLT0szS_ueZD1pIlLKM4kouYbOBEVuzP_Ak0GAM2/s1563/11.png",Kompas TV HD
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9a_I_uyJN92CkCstOlKEHHKI8oIBamwKui-vCMpMy5Wz_xr5sgP3hKqVhkIpubp2cKa8McsMsnUV7Nijd8-tJaU68JIHmFHCwkmdyoEpivES1HAQ6Bmf6GHAz2AMuyWrGmZo_z0NX1l-Z3vThF7PQcLT0szS_ueZD1pIlLKM4kouYbOBEVuzP_Ak0GAM2/s1563/11.png" group-title="Indonesia Channels",Kompas TV HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
 https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
 
-#EXTINF:-1 tvg-id="MetroTV.id" group-title="Indonesia Channels" tvg-url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJLRfWUMrRpDO04WkaKGD-SeviJx7ONbzyI5MhlzrXqJxFfYfmRwFT8FjgR3Xopwp0oR0jO8eCtvoIcLL3xFH-4RX1Bs0oOmUQhM9cF7TTrNjJOi9CMzutFa41pRJWUQh55hitQAU-QLZVPb31xXB3tPu7VaAh9PuXfyEgePMcR0gKC0M3YQzMKxmVeEls/s1563/10.png",Metro TV
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJLRfWUMrRpDO04WkaKGD-SeviJx7ONbzyI5MhlzrXqJxFfYfmRwFT8FjgR3Xopwp0oR0jO8eCtvoIcLL3xFH-4RX1Bs0oOmUQhM9cF7TTrNjJOi9CMzutFa41pRJWUQh55hitQAU-QLZVPb31xXB3tPu7VaAh9PuXfyEgePMcR0gKC0M3YQzMKxmVeEls/s1563/10.png" group-title="Indonesia Channels",Metro TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
