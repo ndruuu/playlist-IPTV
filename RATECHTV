@@ -289,19 +289,19 @@ http://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://shorturl.at/9WOd3" group-title="Indonesia Channels", MOJI TV 1
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigDG4Scc13R7M-FscFsDzxNqKkfnhJr4HOCA52uIkPWeIp98e8W9xW8JPVbPxrIz324rb6mK1sLeWIGunkBgC9UGcn2SeZUtfKjOgZUBJjBiLIzUtZvz72CLGNAkC67rBDa5jlKBR2j_BIWeTskKylfXbLTSUInHmnVz76Nmey9xwUq8zTjLWaJUPNav3j/s1563/8.png" group-title="Indonesia Channels", MOJI TV 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
 https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="Indonesia Channels", MOJI TV 2
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigDG4Scc13R7M-FscFsDzxNqKkfnhJr4HOCA52uIkPWeIp98e8W9xW8JPVbPxrIz324rb6mK1sLeWIGunkBgC9UGcn2SeZUtfKjOgZUBJjBiLIzUtZvz72CLGNAkC67rBDa5jlKBR2j_BIWeTskKylfXbLTSUInHmnVz76Nmey9xwUq8zTjLWaJUPNav3j/s1563/8.png" group-title="Indonesia Channels", MOJI TV 2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
 https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
-#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="Indonesia Channels",MOJI TV 3
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigDG4Scc13R7M-FscFsDzxNqKkfnhJr4HOCA52uIkPWeIp98e8W9xW8JPVbPxrIz324rb6mK1sLeWIGunkBgC9UGcn2SeZUtfKjOgZUBJjBiLIzUtZvz72CLGNAkC67rBDa5jlKBR2j_BIWeTskKylfXbLTSUInHmnVz76Nmey9xwUq8zTjLWaJUPNav3j/s1563/8.png" group-title="Indonesia Channels",MOJI TV 3
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 #EXTINF:-1 tvg-id="Daai TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/979/49979-SNAPSHOT-l.png" group-title="Indonesia Channels",DAAI TV
