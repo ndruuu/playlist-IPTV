@@ -225,7 +225,7 @@ https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
 
 
-#EXTINF:-1 group-title="Indonesia Channels" tvg-id="IDX.id" tvg-url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQNejdXnQb4gD8oIzc2oi2pFYpj_UjDIWWWOciyuVMJ2tG7yKw0pLLjWfWDoXLcRrg6oHXycsheIHAbez63U6WpkiWWiijmRU4bQbhh1qnHAaJ4wRPrFFfx3Ro8iNDbfffytTGrN6P5b9VgCyQNCqrF5j07d1EakPSIgkL6opzR3-lKJikmEXsin5MzPto/s1563/12.png",IDX
+#EXTINF:-1 group-title="Indonesia Channels" tvg-id="IDX.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQNejdXnQb4gD8oIzc2oi2pFYpj_UjDIWWWOciyuVMJ2tG7yKw0pLLjWfWDoXLcRrg6oHXycsheIHAbez63U6WpkiWWiijmRU4bQbhh1qnHAaJ4wRPrFFfx3Ro8iNDbfffytTGrN6P5b9VgCyQNCqrF5j07d1EakPSIgkL6opzR3-lKJikmEXsin5MzPto/s1563/12.png",IDX
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f12a0fe110248a6811faf8a0ddf19c6:af565f760064594c755515cb6b4b6f1a
