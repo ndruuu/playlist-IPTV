@@ -321,7 +321,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 group-title="Indonesia Channels" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://thumbor.prod.vidiocdn.com/A9PXp2pjYWnd8NZ0oQbwniC31So=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8815/metro-globe-network-1ab3f1.jpg",Metro Globe Network
+#EXTINF:-1 group-title="Indonesia Channels" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJLRfWUMrRpDO04WkaKGD-SeviJx7ONbzyI5MhlzrXqJxFfYfmRwFT8FjgR3Xopwp0oR0jO8eCtvoIcLL3xFH-4RX1Bs0oOmUQhM9cF7TTrNjJOi9CMzutFa41pRJWUQh55hitQAU-QLZVPb31xXB3tPu7VaAh9PuXfyEgePMcR0gKC0M3YQzMKxmVeEls/s1563/10.png",Metro Globe Network
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w139395680_b2692000_sleng.m3u8
 
@@ -330,48 +330,40 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.15.2" group-title="Indonesia Channels",CNN Indonesia
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhadL_rE4tuGXyLfr9ZEFlEhFX4yxSKSTYXHbCZgRPHYSOwWhllI8WQxbkpxYu_hlb9l-1GitEKqlY0mRoEDTMqYiNTxXUGLbcLFXuPi0F_ZvAchb-0hvPLmYhunlYHJq7jZ3SFeKwNKEpaLYW3fpZ08aC7B_gBrfeY4Sbm8Nh0BBGHJI7ZFBk1MO5F_ZIt/s1563/20.png" group-title="Indonesia Channels",CNN Indonesia
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 group-title="Indonesia Channels" tvg-id="bnchannel.id" tvg-logo="https://iptv.urfan.web.id/logo/bn.png",BN Channel
+#EXTINF:-1 group-title="Indonesia Channels" tvg-id="bnchannel.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigxn98UfUZbGv4YgwNvwqzQJ8OqoJQ_G_05OP2GnUgH6dKkQFYhyphenhyphenixB2mbhEAp1GOJ2nysKt1DGuXaK2LSexe792ADsccbHrKparCM6Y-GAJHoveLQ-Ce92OxPwPPSOlE4n9NZWijOr_bchQP0bt2W7FlQ6fdxTzAU0i_J-1v_kazcscMTEtbWxiA19Ggz/s1563/19.png",BN Channel
 http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 
-#EXTINF:-1 group-title="Indonesia Channels" tvg-id="IDTV.id" tvg-logo="https://iptv.urfan.web.id/logo/idtv.png",IDTV
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
-
-#EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI4MneSVgEtCTr1bTcY2db9hW6VFIv8XOoZg&usqp=CAU" group-title="Indonesia Channels",Indonesiana TV 
+#EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx-Boimk0KpjdlWdrrWNcoLbnZnGrI4CECXvrKZbwN5xBaNQd2rA1kSvfkDnRZeixhs98EhGgrdnW9kBPVii2YDLps_Hv019rM7X1l9tUSG166sJQdOKU5-sRGk3PmcIVSK8ahQKlsKik27024SkEPZTQi1c3Sya7Xq40LjN-PQYh4d5BFqqXXJHFYhYk9/s1563/18.png" group-title="Indonesia Channels",Indonesiana TV 
 https://tvstreamcast.com/indonesiana.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_GarudaTV_Merah_Putih_Silver_Merah.png/1200px-Logo_GarudaTV_Merah_Putih_Silver_Merah.png" group-title="Indonesia Channels",Garuda TV
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbSiVEP7Dh3nLC9K7LDkDQUJsgQrIN_K2-WejnVZT3VEkHxlEy60tXJbDuIuujSOYdfwrDiIydaKRXBWkW2r75Djq_BX2mzbFhv8_PxGD_JBqZPh9d8U-5OXCmIx-lKA7tHhBDIEx3fhHo4eZ019aEy4sbf0MmcaBsMW6BJLqvE7JBnOwlxPnI5_sccQqL/s1563/16.png" group-title="Indonesia Channels",Garuda TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IGIX3o8.jpg" group-title="Indonesia Channels",TV Kesehatan
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com
-
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="Indonesia Channels" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVOne (INDIHOME)
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="Indonesia Channels" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3_rHeuAvR43iBcRz7pyW2Pbz4827McPJ6EnvKfzsu5VFLmyY2W82DZ4Se7HfNrZIv-DnFWxDMD-TQwDwFUsXM_KWq9dR792DD2B9nB8HY4t8DKCVLBek8IstRTvaxG-BiO2JpkjcvM_aXGD3ASodX6EM8feWyOpiWKyrAyym0NHhAEmkT2ZwyOeC70Snl/s1563/17.png",TVOne (INDIHOME)
 #EXTVLCOPT:http-user-agent=MaxStreamPlayer/3.1.4 ExoPlayerLib/2.19.1 (Linux;Android 15.0.0;)
 https://cdn09jtedge.indihometv.com/atm/hlsv3/tvone/tvone-avc1_1500000=6-mp4a_96000=5.m3u8
 
  
-#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nettv.png", NET
+#EXTINF:-1 group-title="Indonesia Channels" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHYQJ8KQhQ6KGkwynD0cGO8nuRTciUw6V24l4AqXMpYIEPdp0laYrT5TFHnFT7_3_WDJ69htsnId6lFPgyqocNFpTZIMP6yYVRIcraJ5azI8HGoTixVHm1SUSvX_JAApTILl8JXiOU9dKw8h5sWgK0LTeXM_6bUkNzJq_wYBRCFVDRDL3QF0J0APkmN-Ln/s1563/13.png", MD TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="Indonesia Channels", Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
  
-#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" group-title="Indonesia Channels", Nusantara TV
+#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNhXAFsxDegj8eyBoiOm_-we2rdSh8IVTnniLNX7r_Ndj5LECc4XyZsvYhJuXfWr3dO2SuRCKjhU_VoV1lxyVdcr63ttuUjkp-mNZe59f5_knKmkkEamm0VF7-vitVr-fjP4EMN0uBIgnT5i5oTN1gr4pfclmHY1IZDie3uHmijx3oGA2EU6Ti6zPvZgUv/s1563/9.png" group-title="Indonesia Channels", Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
 
-#EXTINF: -1 tvg-logo="https://dl.dropboxusercontent.com/s/3otsx9tmmh18aqn/cnnindo.png" group-title="Indonesia Channels",CNN Indo
+#EXTINF: -1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhadL_rE4tuGXyLfr9ZEFlEhFX4yxSKSTYXHbCZgRPHYSOwWhllI8WQxbkpxYu_hlb9l-1GitEKqlY0mRoEDTMqYiNTxXUGLbcLFXuPi0F_ZvAchb-0hvPLmYhunlYHJq7jZ3SFeKwNKEpaLYW3fpZ08aC7B_gBrfeY4Sbm8Nh0BBGHJI7ZFBk1MO5F_ZIt/s1563/20.png" group-title="Indonesia Channels",CNN Indo
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
 
 #EXTINF:-1 group-title="Lokal" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirXleUDfEA7XQdGvKBkujAJcGslICecDpLL4pcUN5DcJTHTF-PX9IHoMiApPhnhUSkOaVHzo1Hw1T9hNGWptmdE9nGhZLH61Ie9zzdGrnMGvzw-8YYpbUJnGj7XpqBgAgZ3QhPOFEzWEzsqxij2iIW2uUNf_XtvR-y0uhnwD-LpoNLRr069I1rNVSNGA/s1600/tic%20%281%29.jpg",TIC
