@@ -202,7 +202,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 #EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNhXAFsxDegj8eyBoiOm_-we2rdSh8IVTnniLNX7r_Ndj5LECc4XyZsvYhJuXfWr3dO2SuRCKjhU_VoV1lxyVdcr63ttuUjkp-mNZe59f5_knKmkkEamm0VF7-vitVr-fjP4EMN0uBIgnT5i5oTN1gr4pfclmHY1IZDie3uHmijx3oGA2EU6Ti6zPvZgUv/s1563/9.png" group-title="Indonesia Channels",Nusantara TV
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
+Chrome/109.0.0.0 Safari/537.36
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 
