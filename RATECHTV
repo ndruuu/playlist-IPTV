@@ -265,6 +265,9 @@ http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 #EXTINF:-1 xui-id="8" tvg-id="" tvg-name="MNC TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAGZXXbt4lakro4MgDPESWASKIjRY1YJv1RhOGinkahcPhtqu9x9bvV43fmP0CuzQbE-4Klo_0kLKRb1FUjIkj1yiOTefnShVwh267IYkCI5Bm8IvSoBO3KO7kJp701XwF6or2SejD8G-SXo27JTdffbthIPWDYnI8iJijhRVwnwZth1yNvftrm-iuhvOn/s1563/25.png" group-title="Indonesia Channels",MNC TV
 http://home-tv.online:80/play/c2Gg8j_F7HALna8dZ6dmBkdI-r-3rr5yOx9kY_hQt9M
 
+#EXTINF:-1 xui-id="9" tvg-id="" tvg-name="GTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCzRcmG2P6XmlVDEkUciUCvb1-zp2XCRy4D_03cEw72B3XVXLjjBz7bY4N6IAHkRhfGWPrPt1_hUnzKDVOLsIcEKBwuW4onk6Acy7_CYyF-iwFoEWBg9LiVzcBuJG9v9ROCo3crgDsjGfrbsdm7q38anUsSvSUUeX6B7AwFOtGoj3r9P1z8d_JxOTh3iHX/s1563/26.png" group-title="Indonesia Channels",GTV
+http://home-tv.online:80/play/c2Gg8j_F7HALna8dZ6dmBiSOE1X9LiiO10kiHdaqFzI
+
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrhnoFxglh-FdRndyg4yPLzYjy9IRLX5UHAY4rRjUY79kr3FOEYsYiKOZJGzgUYoPZ3u8ZscSJRBpAlQ3qY5ivOZWsAr26m7HC00Rw1MGJWIa423ft5UQrpzHVCxSS-VdI_6fWMNPdTgDLF8t06qQHKRfUEorw1lCJlobhh6_KrSKwv5HrD9ZpLJLkChK4/s1563/7.png" group-title="Indonesia Channels",RCTI +
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=http://www.rctiplus.com/
