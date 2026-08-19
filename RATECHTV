@@ -1,23 +1,4 @@
 
-
-#EXTM3U
-
-#EXTM3U url-tvg="https://webepg.netlify.app/epgappletv.xml,https://www.open-epg.com/files/Canada.xml,https://www.open-epg.com/files/indonesia1.xml,https://www.open-epg.com/files/indonesia2.xml,https://www.open-epg.com/files/indonesia3.xml,https://www.open-epg.com/files/indonesia4.xml,https://www.open-epg.com/files/indonesia5.xml,https://bit.ly/IndonesiaEpg" refresh="1440" refresh="24"
-
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🛑 APPLE TV", PREMIUM
-https://snazzy-lily-b578fe.netlify.app/premium.mp4
-
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🛑 APPLE TV", PERINGATAN
-https://dl.dropboxusercontent.com/scl/fi/ypg266s32gdouq9ygb25b/Wk4PZ6Nh.3gpp?rlkey=wkhhzoj3w33h2dnr5vj79y5y4&st=drigftaq
-
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="🛑 APPLE TV", ADU AYAM
-http://49.0.64.96:8007/HiSports
-
-
-
-
 ======== LIVE EVENT =========
 
 #EXTINF:-1 tvg-id="Apple TV.id" group-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" tvg-logo="https://i.ibb.co.com/QKWdQvk/rounded-in-photoretrica-1.png" group-title="EVENT LIVE", #INFO
